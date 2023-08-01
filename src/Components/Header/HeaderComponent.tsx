@@ -91,7 +91,7 @@ export default function HeaderComponent(
         {...restProps}
         onClick={() => props.changeMenu({ tabs: [], item: "" })}
       >
-        <span style={iconStyles}>WAHBE Production Reporting Portal</span>
+        <span style={iconStyles}>AHCT</span>
       </Label>
       </Space>
       <Space justify="end">

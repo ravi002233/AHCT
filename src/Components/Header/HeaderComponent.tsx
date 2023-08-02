@@ -106,7 +106,7 @@ export default function HeaderComponent(
           {...restProps}
           onClick={() => props.changeMenu({ tabs: [], item: "" })}
         >
-          <span style={iconStyles}>AHCT</span>
+          <span style={iconStyles}>AHCT Reporting Portal</span>
         </Label>
         <Label>
           <span style={linkStyles}>

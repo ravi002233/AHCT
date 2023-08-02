@@ -100,41 +100,42 @@ export const menuList = [
             }],
           },
         ],
-      },   {
-        subMenu: "Workflow Diagnosis",
-        items: [
-          {
-            item: "",
-            tabs: [{
-              id: "TOZvsgEkv2i7UQyjBYrvbV",
-              env: "cbi",
-              tab: "Summary",
-            },
-            {
-              id: "Ly1NThzLH0NRP5gXDnHMWc",
-              env: "cbi",
-              tab: "By Agents",
-            },
-            {
-              id: "q3hLN4zGSVseUCFqpv7orv",
-              env: "cbi",
-              tab: "Disposition",
-            },{
-              id: "Ox2wqTHW7YuTQdiYSdsEvy",
-              env: "cbi",
-              tab: "ICT Breakdown",
-            },{
-              id: "ASOZR94WeTfH5NrpVvJor7",
-              env: "cbi",
-              tab: "Knowledge Base Documents",
-            },{
-              id: "GOk8tDQ7U0CaZJtHYM5tTx",
-              env: "cbi",
-              tab: "Other Reasons",
-            }],
-          },
-        ],
-      },
+      }
+      // ,   {
+      //   subMenu: "Workflow Diagnosis",
+      //   items: [
+      //     {
+      //       item: "",
+      //       tabs: [{
+      //         id: "TOZvsgEkv2i7UQyjBYrvbV",
+      //         env: "cbi",
+      //         tab: "Summary",
+      //       },
+      //       {
+      //         id: "Ly1NThzLH0NRP5gXDnHMWc",
+      //         env: "cbi",
+      //         tab: "By Agents",
+      //       },
+      //       {
+      //         id: "q3hLN4zGSVseUCFqpv7orv",
+      //         env: "cbi",
+      //         tab: "Disposition",
+      //       },{
+      //         id: "Ox2wqTHW7YuTQdiYSdsEvy",
+      //         env: "cbi",
+      //         tab: "ICT Breakdown",
+      //       },{
+      //         id: "ASOZR94WeTfH5NrpVvJor7",
+      //         env: "cbi",
+      //         tab: "Knowledge Base Documents",
+      //       },{
+      //         id: "GOk8tDQ7U0CaZJtHYM5tTx",
+      //         env: "cbi",
+      //         tab: "Other Reasons",
+      //       }],
+      //     },
+      //   ],
+      // },
     ],
   },
   {

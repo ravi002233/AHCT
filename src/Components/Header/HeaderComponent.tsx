@@ -111,7 +111,7 @@ export default function HeaderComponent(
         <Label>
           <span style={linkStyles}>
             <a
-              href="https://apps.use2.us-gov-pure.cloud/directory/#/analytics/dashboards/7f156dfe-1b32-4a1c-845f-74bc546e0dd9?tabId=7f622e0d-f89c-428d-84e7-fa50e394dd0c"
+              href="https://login.use2.us-gov-pure.cloud/?rid=ShTbgwWRh8EjvBttfedog614ocuv9QQnLMjKRVQV3kM#/authenticate"
               target="_blank"
             >
               <img
